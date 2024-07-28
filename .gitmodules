@@ -1,0 +1,3 @@
+[submodule "artist-affiliated-frontend"]
+	path = artist-affiliated-frontend
+	url = https://github.com/ArvindhMM/ArtistsAffiliated-Frontend.git
